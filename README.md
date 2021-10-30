@@ -1,4 +1,4 @@
 # G9_earthquakes
-Team :
-Mohamed Mousa ,,  
-Belal Ashraf
+### Team :
+- Mohamed Mousa
+- Belal Ashraf
